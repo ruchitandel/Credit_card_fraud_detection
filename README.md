@@ -131,6 +131,10 @@ credit_card_fraud_detection/
 ![image](https://github.com/user-attachments/assets/1db22caa-5c7f-41df-b664-c0fc3f1f8330)
 
 
+https://github.com/user-attachments/assets/905560ee-5de3-4ee8-8687-c3695d1ad8fa
+
+
+
 
 
 
