@@ -42,27 +42,17 @@ credit_card_fraud_detection/
 
 ├── .venv/
 
-
-
-│
-
 ├── Notebook/
 
 │   └── app.ipynb
-
-│
 
 ├── data/
 
 │   └── dataset.csv
 
-│
-
 ├── docs/
 
 │   └── credit_card_fraud (1).docx
-
-│
 
 ├── models/
 
@@ -76,13 +66,9 @@ credit_card_fraud_detection/
 
 │   └── xgboost_model1.pkl
 
-│
-
 ├── src/
 
 │   └── app.py
-
-│
 
 ├── .gitattributes
 
