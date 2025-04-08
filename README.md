@@ -123,6 +123,8 @@ credit_card_fraud_detection/
 4. The system predicts whether the transaction is **fraudulent** or **legitimate**.
 5. The result is displayed on the **Streamlit UI**.
 
+https://github.com/user-attachments/assets/905560ee-5de3-4ee8-8687-c3695d1ad8fa
+
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/973bb3a2-cde7-4493-9ddf-59b459765773)
 ![image](https://github.com/user-attachments/assets/4de8f389-66b4-4b5f-a178-56b03ef16e0f)
@@ -131,7 +133,6 @@ credit_card_fraud_detection/
 ![image](https://github.com/user-attachments/assets/1db22caa-5c7f-41df-b664-c0fc3f1f8330)
 
 
-https://github.com/user-attachments/assets/905560ee-5de3-4ee8-8687-c3695d1ad8fa
 
 
 
