@@ -37,33 +37,59 @@ streamlit run app.py
 ### File Structure
 
 credit_card_fraud_detection/
+
 │
+
 ├── .venv/
+
 │
+
 ├── Notebook/
+
 │   └── app.ipynb
+
 │
+
 ├── data/
+
 │   └── dataset.csv
+
 │
+
 ├── docs/
+
 │   └── credit_card_fraud (1).docx
+
 │
+
 ├── models/
+
 │   ├── feature_order1.pkl
-│   ├── label_encoders.pkl
+
 │   ├── label_encoders1.pkl
+
 │   ├── onehot_encoder1.pkl
+
 │   ├── random_forest_model1.pkl
+
 │   └── xgboost_model1.pkl
+
 │
+
 ├── src/
+
 │   └── app.py
+
 │
+
 ├── .gitattributes
+
 ├── LICENSE
+
 ├── README.md
+
 └── requirements.txt
+
                
 
 ## Model Training Process
